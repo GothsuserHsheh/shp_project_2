@@ -1,0 +1,81 @@
+.start {
+    width: 1335px;
+    height: 24px;
+    background-color: #FF8000;
+    text-align: center;
+    position: fixed;
+}
+
+.menu {
+    background-color: #0080FF80;
+    height: 150px;
+    width: 1335px;
+    display: flex;
+    transform: translateY(24px);
+    position: fixed;
+}
+
+.info_for_register {
+    align-items: start;
+}
+
+.img_1 {
+    width: 25%;
+    margin-left: 3%;
+    margin-right: 30%;
+}
+
+body {
+    color: #fff;
+}
+
+.login_and_number_phone {
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 15px;
+}
+
+.lk_bt {
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: 3px solid white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-right: 10px;
+    padding-left: 20px;
+}
+
+.phone {
+    width: 100px;
+}
+
+a {
+    color: #fff;
+    margin-right: 20px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+.img_2 {
+    width: 100%;
+}
+
+.lk_bt:hover {
+    transform: scale(1.05);
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mu:hover {
+    transform: scale(1.5);
+}
